@@ -1,3 +1,17 @@
+# Quiz · Histórico de pontuação
+
+Atividade de interface de quiz com histórico de pontuações do usuário.
+
+## Estrutura
+
+- [`quiz-app.zip`](./quiz-app.zip)
+
+## Visão geral
+
+O material principal inclui arquivos compactados ou documentos de referência. Consulte o conteúdo do repositório antes de definir o ambiente de execução.
+
+## Documentação do projeto
+
 # Atividade - Histórico do usuário
 
 Nesta atividade eu alterei a tela do quiz para mostrar o histórico de pontuação do usuário.
